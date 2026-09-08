@@ -30,4 +30,4 @@
 ![Intern](04-intern-permission.jpeg)
 
 #### 5. MFA Enforced - Final
-![MFA Final](05-iam-users-with-MFA.jpeg)
+![MFA Final](05-iam-user-with-MFA.jpeg)
